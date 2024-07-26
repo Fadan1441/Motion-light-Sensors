@@ -1,5 +1,5 @@
 # Motion-light-Sensors
-controling and led light using a motion sensor and a photoresistor
+controlling a LED light using a motion sensor and a photoresistor
 ![image](https://github.com/user-attachments/assets/a4ea50d9-5334-4973-93de-be2b53f37fa3)
 
 This version works without the website 
