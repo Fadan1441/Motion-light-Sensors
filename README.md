@@ -15,4 +15,4 @@ This version is suppose to work with a website that control the light sensor
 https://wokwi.com/projects/404448753594833921\
 
 but its a work in progress as the website always return the value 0
-and controling the light sensor using the value from the website is yet to be figured out
+and controlling the light sensor using the value from the website is yet to be figured out
